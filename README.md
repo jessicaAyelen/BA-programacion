@@ -1,2 +1,2 @@
 # BA-programacion
-primer trabajo practico, formulario simple con una descripción
+Trabajos practicos que van desde  html  simple a  complementarlos con css y js
